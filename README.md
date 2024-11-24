@@ -10,3 +10,20 @@
  <img alt="YOUR-ALT-TEXT" src="https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/3425c7eaf5ceb326f65396be36b66239/large.gif">
 </picture>
 
+## About me: 
+I´m a third year student at Colombia´s National University located in Medellín.
+
+<details>
+<summary>My prefered languages</summary>
+
+| Rank | Prefered languages |
+|-----:|--------------------|
+|     1| English |
+|     2| Spanish |
+|     3| Portuguese |
+
+</details>
+
+---
+> Those who decide to ignore their past are damned to repeat it perpetually.
+- S.
