@@ -57,22 +57,31 @@ Enter the following information:
 ---
 
 ## **Example Visual Workflow**
-1. ![Step 1 sc1](https://via.placeholder.com/800x400)  
+1.  
+   ![Step 1 sc1](https://via.placeholder.com/800x400) 
 
-2. ![Step 2 sc2](https://via.placeholder.com/800x400)  
+2.   
+   ![Step 2 sc2](https://via.placeholder.com/800x400)
 
-3. ![Step 3 sc3](https://via.placeholder.com/800x400)
+3. 
+   ![Step 3 sc3](https://via.placeholder.com/800x400)
 
-4. ![Step 4 sc4](https://via.placeholder.com/800x400)
+4.
+    ![Step 4 sc4](https://via.placeholder.com/800x400)
 
-5. ![Step 5 sc5](https://via.placeholder.com/800x400)
+5. 
+   ![Step 5 sc5](https://via.placeholder.com/800x400)
 
-6. ![Step 6 sc6](https://via.placeholder.com/800x400)
+6. 
+   ![Step 6 sc6](https://via.placeholder.com/800x400)
 
-7. ![Step 7 sc7](https://via.placeholder.com/800x400)
+7. 
+   ![Step 7 sc7](https://via.placeholder.com/800x400)
 
-8. ![Step 8 sc8](https://via.placeholder.com/800x400)
+8. 
+   ![Step 8 sc8](https://via.placeholder.com/800x400)
 
+   
 ---
 
 ## **Contact and Support**
