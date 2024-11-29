@@ -26,8 +26,7 @@ Enter the following information:
 ## **2. How to Link our Account to the UNAL organization**
 ### **Step 1: Access GitHub Education**
 1. Go to [GitHub Education](https://education.github.com/).
-2. Click **Get benefits** under the student or teacher section.
-
+2. Click **Join GitHub Education**.
 ### **Step 2: Verify Our Educational Affiliation**
 1. Log in with your GitHub account.
 2. Provide the following information: 
@@ -58,20 +57,27 @@ Enter the following information:
 ---
 
 ## **Example Visual Workflow**
-1. Creating a GitHub Account:  
-   ![Step 1 Screenshot](https://via.placeholder.com/800x400)  
+1. ![Step 1 sc1](https://via.placeholder.com/800x400)  
 
-2. Linking an Educational Account:  
-   ![Step 2 Screenshot](https://via.placeholder.com/800x400)  
+2. ![Step 2 sc2](https://via.placeholder.com/800x400)  
 
-3. Benefits of the GitHub Education Pack:  
-   ![Step 3 Screenshot](https://via.placeholder.com/800x400)  
+3. ![Step 3 sc3](https://via.placeholder.com/800x400)
+
+4. ![Step 4 sc4](https://via.placeholder.com/800x400)
+
+5. ![Step 5 sc5](https://via.placeholder.com/800x400)
+
+6. ![Step 6 sc6](https://via.placeholder.com/800x400)
+
+7. ![Step 7 sc7](https://via.placeholder.com/800x400)
+
+8. ![Step 8 sc8](https://via.placeholder.com/800x400)
 
 ---
 
 ## **Contact and Support**
 If you have any questions about this process, you can contact:
-- **GitHub Education Support**: [GitHub Support](https://support.github.com/)  
+- **GitHub Education Support**: [GitHub Support](https://support.github.com/) 
 - **Our Institution's IT Department**
 - **Share troubles with classmates or teacher**
 
